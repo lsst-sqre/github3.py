@@ -62,7 +62,7 @@ class PyTest(TestCommand):
         sys.exit(errno)
 
 setup(
-    name="github3.py",
+    name="sqre-codekit-github3.py",
     version=__version__,
     description=("Python wrapper for the GitHub API"
                  "(http://developer.github.com/v3)"),
